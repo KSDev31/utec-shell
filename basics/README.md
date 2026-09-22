@@ -1,0 +1,1 @@
+0-current_working_directory muestra la ruta absoluta de donde se encuentra el script.
