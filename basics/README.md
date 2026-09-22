@@ -8,3 +8,4 @@
 7-movethatfile mueve el archivo betty ubicado en /tmp/ a /tmp/my_first_directory.
 8-firstdelete elimina el archivo betty de /tmp/my_first_directory.
 9-firstdirdeletion elimina el directorio /tmp/my_first_directory
+10-back vuelve al anterior directorio de trabajo.
