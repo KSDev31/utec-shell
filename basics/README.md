@@ -2,3 +2,4 @@
 1-listit muestra el contenido del directorio actual.
 2-bring_me_home lleva al usuario a su carpeta home.
 3-listfiles muestra el contenido largo del directorio actual.
+4-listmorefiles muestra el contenido largo del directorio actual incluyendo los archivos ocultos.
