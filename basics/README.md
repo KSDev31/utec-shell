@@ -9,3 +9,5 @@
 8-firstdelete elimina el archivo betty de /tmp/my_first_directory.
 9-firstdirdeletion elimina el directorio /tmp/my_first_directory
 10-back vuelve al anterior directorio de trabajo.
+11-lists lista el contenido del directorio actual, el directorio padre y el directorio /boot.
+12-file_type muestra el tipo de archivo de un archivo determinado.
