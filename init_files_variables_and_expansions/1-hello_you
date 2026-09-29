@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "hello $USER"
+echo "hello#!/bin/bash
+BEST="School" $USER"
